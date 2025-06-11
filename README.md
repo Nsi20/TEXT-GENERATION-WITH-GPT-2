@@ -1,5 +1,4 @@
-# PRODIGY_GA_01
-TEXT GENERATION WITH GPT-2
+# TEXT GENERATION WITH GPT-2
 ---
 
 # **Fine-Tuning GPT-2 for Contextual Text Generation**
